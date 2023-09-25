@@ -1,0 +1,9 @@
+- if a user doesn't have the label (is not included in labeled_ids) he walk or he doesn't need the transportation mode
+--> if the user not labeled doesn't need the 'walk' label, should we insert htat user in the activity table?
+--> if not, we don't have to consider the trackpoint of that user
+
+- start and end time (we need to take the first and last lines in plt file)?
+
+- is it possible that a track point miss some values (like datetime, or date days)
+
+- ask to explain 4th point
