@@ -2,4 +2,3 @@
 ## TDT4225 - Very Large, Distributed Data Volumes
 ### Sara Cinquini, Lucie Perez, Victoria Stasik
 Deadline: Oct 6 at 16:00
-
